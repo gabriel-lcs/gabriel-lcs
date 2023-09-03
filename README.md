@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Gabriel Lucas 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.lcas/) 
-[![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() - Gabriellucassr@alu.ufc.br
+
 
 ## Tecnologias que uso no meu dia a dia 💻
 <div >
