@@ -3,14 +3,20 @@
 
 ## About me
 Me chamo Gabriel Lucas e sou estudante de Ciência da Computação e atualmente estou estudando back-end.
-
-
+    <br>
+    <br>
 ## Tecnologias que uso no meu dia a dia 💻
-<div >
-    [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-    [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div><br>
 
-    <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div><br/>
+
+
 
 ![Gaweb1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lcs&demo=true&locale=pt-br)
