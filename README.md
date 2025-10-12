@@ -1,7 +1,8 @@
 
-### Olá! Eu sou o Gabriel Lucas 👋
+### Olá! 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.lcas/) 
+## About me
+Me chamo Gabriel Lucas e sou estudante de Ciência da Computação e atualmente estou estudando back-end.
 
 
 ## Tecnologias que uso no meu dia a dia 💻
@@ -9,4 +10,4 @@
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
-![Gaweb1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaweb1&demo=true&locale=pt-br)
+![Gaweb1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lcs&demo=true&locale=pt-br)
