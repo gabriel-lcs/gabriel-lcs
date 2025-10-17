@@ -7,16 +7,7 @@ Me chamo Gabriel Lucas e sou estudante de Ciência da Computação e atualmente 
     <br>
 ## Tecnologias que uso no meu dia a dia 💻
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,java,git,github&theme=light" height="40" alt="my skills"  />
 </div><br>
 
-
-
-
-![Gaweb1 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lcs&demo=true&locale=pt-br)
+![gabriel-lcs Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lcs&layout=compact)
