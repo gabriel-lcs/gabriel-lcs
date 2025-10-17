@@ -2,7 +2,7 @@
 ### Olá! 👋
 
 ## About me
-Me chamo Gabriel Lucas e sou estudante de Ciência da Computação e atualmente estou estudando back-end.
+Me chamo Gabriel Lucas e sou estudante de Ciência da Computação e atualmente estou estudando back-end. Aqui estão alguns repositórios de algumas cadeiras da faculdade, estudos e projetos pessoais 
     <br>
     <br>
 ## Tecnologias que uso no meu dia a dia 💻
