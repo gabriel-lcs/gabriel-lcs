@@ -10,4 +10,4 @@ Me chamo Gabriel Lucas e sou estudante de Ciência da Computação e atualmente 
     <img src="https://skillicons.dev/icons?i=js,html,css,python,java,git,github&theme=light" height="40" alt="my skills"  />
 </div><br>
 
-![gabriel-lcs Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lcs&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+![gabriel-lcs Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-lcs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
